@@ -45,7 +45,7 @@
 11. [捐赠](https://www.hub.moe/blackboard/donate.html)支持一下
 12. 查看更新日志
 
-![](screenshot/right-upload.jpg)
+![](http://wx4.sinaimg.cn/large/dcbd4a17gy1g25mqtve8kj20k90cu0sr.jpg)
 
 如果可以获取到页面中的图片，则会在右键菜单中显示把这张图片上传到微相册的选项，点击后会自动上传，上传结束后会出现提示。
 
