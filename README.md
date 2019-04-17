@@ -30,7 +30,7 @@
 
 上图展示的是扩展中常用的提示，一般出现在主屏幕的右下角，不同的操作系统显示上略有差异。
 
-![](screenshot/popup.png)
+![](http://wx1.sinaimg.cn/large/dcbd4a17gy1g25mpq4w6bj20ni0ghaaw.jpg)
 
 1. 地址协议选择
 2. 图片裁剪选择
