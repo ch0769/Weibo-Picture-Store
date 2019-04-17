@@ -26,7 +26,7 @@
 
 > 具体的操作指南，包含图示
 
-![](screenshot/chrome-notify.jpg)
+![](http://wx1.sinaimg.cn/large/dcbd4a17gy1g25mlccl53j20aa02x0sm.jpg)
 
 上图展示的是扩展中常用的提示，一般出现在主屏幕的右下角，不同的操作系统显示上略有差异。
 
