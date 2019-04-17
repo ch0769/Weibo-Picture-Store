@@ -49,11 +49,11 @@
 
 如果可以获取到页面中的图片，则会在右键菜单中显示把这张图片上传到微相册的选项，点击后会自动上传，上传结束后会出现提示。
 
-![](screenshot/video-frame.jpg)
+![](http://wx1.sinaimg.cn/large/dcbd4a17gy1g25mswsydaj20hz0cwta2.jpg)
 
 如果可以获取到页面中 HTML5 的视频并且原生的右键菜单可用，则会在右键菜单中显示把当前的视频帧上传到微相册的选项，上传流程和上述图片一样。
 
-![](screenshot/video-frame-enhancement.jpg)
+![](http://wx2.sinaimg.cn/large/dcbd4a17gy1g25mu75e9qj20r30hgn0x.jpg)
 
 如果页面中 HTML5 视频在其他容器的下层，或者原生的右键菜单被屏蔽了。可以使用默认快捷键 `Alt+Shift+T`（可在 `chrome://extensions/shortcuts` 键盘快捷键中修改按键）来修改页面元素，让 HTML5 视频可以被右键菜单捕获并且原生右键菜单这时候处于可用状态。需要注意，在页面元素处于修改状态中，页面上的其他元素不可以被鼠标选中，并且页面周围会显示红白相间的条纹表示页面元素处于修改状态。再次按下快捷键 `Alt+Shift+T` 即可退出这种状态，恢复正常。
 
@@ -61,7 +61,7 @@
 2. 原生的右键菜单
 3. 在页面未修改场景下的右键菜单
 
-![](screenshot/history.png)
+![](http://wx3.sinaimg.cn/large/dcbd4a17gy1g25muzgvthj21bf0uc7do.jpg)
 
 1. 从微相册中移除这张图片
 2. 在图片上右击可以复制图片地址
@@ -70,11 +70,11 @@
 5. 切换相册（不可用状态）
 6. 切换相册（可用状态）
 
-![](screenshot/directory.gif)
+![](http://wx1.sinaimg.cn/large/dcbd4a17gy1g25mwlb8p4g20qs0j01ky.gif)
 
 上图是拖拽文件夹上传图片的示例。
 
-![](screenshot/options.jpg)
+![](http://wx1.sinaimg.cn/large/dcbd4a17gy1g25mx5oyznj20cn0cdglv.jpg)
 
 上图是选项设置，填写微博的账号和密码，可以在传图时自动登录到你的微博，这是可选的设置。默认情况下，使用浏览器中微博的 Cookies，如果你的微博没有登录，则会收到需要登录微博的提示。
 
